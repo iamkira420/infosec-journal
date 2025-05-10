@@ -4,9 +4,9 @@ Welcome to my infosec journal—a growing collection of personal notes, CTF writ
 
 ## 📂 Structure
 
-/ctf-writeups/ # CTF walkthroughs organized by event and category
-/troubleshooting/ # Practical fixes and workarounds from daily tech use
-/tools-notes/ # Cheat sheets and usage notes for common security tools
+- /ctf-writeups/ # CTF walkthroughs organized by event and category
+- /troubleshooting/ # Practical fixes and workarounds from daily tech use
+- /tools-notes/ # Cheat sheets and usage notes for common security tools
 
 ## 🚧 Why this exists
 

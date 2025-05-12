@@ -29,7 +29,7 @@ These tags show up at the top of the Liked Songs playlist.
 4. Repeat for each tag until the playlist is cleared.
 
 **⚠️ Tip:**  
-Start with the tags that have **more songs** first. As you reduce your Liked Songs count, Spotify **removes those tag filters**, so clearing the bigger batches early helps avoid issues later. Once the tags disappear (usually around 250 songs or fewer), you may need to delete songs manually or in smaller chunks using `Shift + Click`.
+Start with the tags that have **more songs** first. As you reduce your Liked Songs count, Spotify **removes those tag filters**, so clearing the bigger batches early helps avoid issues later. Once the tags disappear, you may need to delete songs manually or in smaller chunks using `Shift + Click`.
 
 ## Final Thoughts  
 Sometimes the best solutions aren’t about brute force, but about *filtering smarter*. Feels good to troubleshoot and outsmart even small tech annoyances like this.

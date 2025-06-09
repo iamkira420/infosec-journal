@@ -38,7 +38,7 @@ The combined PDF includes writeups for all three core exercises:
 
 ## 📄 Report
 
-> 📌 [Download the full report (PDF)](./Geekulcha%20Ideathon%202025%20.pdf)
+> 📌 [Download the full report (PDF)](./output.pdf)
 
 ---
 

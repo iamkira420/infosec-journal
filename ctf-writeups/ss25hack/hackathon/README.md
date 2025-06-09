@@ -24,7 +24,7 @@ and respond to active threats in a fast-paced SOC environment.
 - Suspicious network behavior detection  
 - IOC tracking and threat validation  
 - MITRE ATT&CK mapping under time constraints
-- Building a SIEM solution suign YARA rules to detect and defend against identified IOCs
+- Building a SIEM solution using YARA rules to detect and defend against identified IOCs
 - Security report writing in a SOC-like environment
 
 ---
@@ -41,5 +41,5 @@ This writeup is based on a simulated CTF challenge. All investigation and report
 ---
 
 👤 Authored by: **Lutho Mboniswa**  
-📅 Date: May 2025  
+📅 Date: 3-4 June 2025  
 🏆 Blue Team CTF – **1st Place Winner**

@@ -20,6 +20,7 @@ brew install qpdf
 
 Windows folks, my bad!
 
+
 ### 🔓 Step 2: Decrypt the PDF
 
 Replace the placeholders below with your actual filename and password:

@@ -80,7 +80,7 @@ This will:
 * Grant extra permissions only if `AdminOnly123` is entered.
 * Use AES-256 for strong encryption.
 
-### 🧠 Pro Tips
+### 🧠 Brainy Points
 
 * Keep the **owner password** different and stored securely — it's your override key.
 * Pair this with `chmod` or secure cloud sharing for extra layers of defense.
